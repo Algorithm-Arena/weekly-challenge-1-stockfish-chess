@@ -1,6 +1,6 @@
 # Weekly Challenge #1 - Stockfish Chess
 
-This is the first edition of a weekly programming challenge that I'm going to host. The idea is to spur people's creativity. I used to run this kind of contest on [SC2Mapster.com](https://sc2mapster.com/) where every week I would come up with a map concept. It worked worked really well for mapping competition, I figured that this format would also work for programmers, yet I've not seen this kind of challenge anywhere.
+This is the first edition of a weekly programming challenge that I'm going to host. The idea is to spur people's creativity. I used to run this kind of contest on [SC2Mapster.com](https://sc2mapster.com/) where every week I would come up with a map concept. It worked really well for mapping competition, I figured that this format would also work for programmers, yet I've not seen this kind of challenge anywhere.
 
 **For the first challenge, you need to create a way to play chess 1v1 against a bot using the normal chess rules. The twist is that you need to use stockfish to spice up the game in an interesting way.**
 
