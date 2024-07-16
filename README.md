@@ -9,7 +9,7 @@ This is the first edition of a weekly programming challenge that I'm going to ho
 ### Winner:
 * Congratulations to @jalvarado91 who wins $150 by implementing Fin-n-Brain where you are given the piece that stockfish recommends playing. This is a super fun to way to play against the computer. You can try it out https://fin-n-brain.vercel.app/. https://github.com/Algorithm-Arena/weekly-challenge-1-stockfish-chess/issues/1
 
-<a href="https://fin-n-brain.vercel.app/"><img src="https://github.com/vjeux/weekly-challenge-1-stockfish-chess/assets/197597/7c77842a-7cff-4719-a45f-efb24aec3f4a" width="500"></a>
+![image](https://github.com/vjeux/weekly-challenge-1-stockfish-chess/assets/197597/7c77842a-7cff-4719-a45f-efb24aec3f4a)
 
 ### Prizes:
 * Winner: $100
